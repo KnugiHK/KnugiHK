@@ -6,3 +6,6 @@ Currently on the way to become a security professional.
 * C#
 * JavaScript
 * Lua (Ahh, actually, hate this)
+
+### Currently learning...
+* C++
