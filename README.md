@@ -9,3 +9,7 @@ Currently on the way to become a security professional.
 
 ### Currently learning...
 * C++
+
+### Recently working on...
+* [matrix-synapse-admin-api](https://github.com/KnugiHK/synapse-admin-api-python)
+* [OurTube](https://github.com/KnugiHK/OurTube)
