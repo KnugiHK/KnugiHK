@@ -15,4 +15,4 @@ Currently on the way to become a security professional.
 * [OurTube](https://github.com/KnugiHK/OurTube)
 
 ### Latest posts...
-1. [Bytes in Python](202102/162129-Bytes-In-Python.md)
+1. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
