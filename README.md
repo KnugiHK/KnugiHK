@@ -1,6 +1,9 @@
 ### Hi there 👋 Knugi is here. A greeting from Hong Kong!
 Currently on the way to become a security professional.
 
+### Latest blog posts...
+1. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
+
 ### ⚡Languages (from using actively to languages that I have experienced before)
 * Python (Active)
 * C#
@@ -13,6 +16,3 @@ Currently on the way to become a security professional.
 ### Recently working on...
 * [matrix-synapse-admin-api](https://github.com/KnugiHK/synapse-admin-api-python)
 * [OurTube](https://github.com/KnugiHK/OurTube)
-
-### Latest posts...
-1. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
