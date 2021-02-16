@@ -13,3 +13,6 @@ Currently on the way to become a security professional.
 ### Recently working on...
 * [matrix-synapse-admin-api](https://github.com/KnugiHK/synapse-admin-api-python)
 * [OurTube](https://github.com/KnugiHK/OurTube)
+
+### Latest posts...
+1. [Bytes in Python](202102/162129-Bytes-In-Python.md)
