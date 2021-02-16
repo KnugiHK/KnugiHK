@@ -1,3 +1,4 @@
+# Bytes in Python
 Recently, I'm working on converting a rtmp server from Python 2 and Python 3. Most of the syntax can be converted by using a built in tools called "2to3.py", but some cannot. One typical example is Bytes type.
 
 In Python 2, a byte is simply a string. However, in Python 3 bytes does not equal to string, they are different, hence, we need to add a 'b' sign before a string to make the object be a Bytes.
