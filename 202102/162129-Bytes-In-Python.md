@@ -29,4 +29,7 @@ That's mean we need to remove ord() when converting Python 2 code in Python 3.
 
 So, when we need to convert a network related program from Python 2 to Python 3, we need to take extra caution about bytes.
 
+# Metadata
 *This post was originally posted in 2020 May 26*
+
+*[Bytes In Python 2 & 3 Comment Section](https://github.com/KnugiHK/KnugiHK/issues/1)*
