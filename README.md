@@ -1,5 +1,5 @@
 ### Hi there 👋 Knugi is here. A greeting from Hong Kong!
-Currently on the way to become a security professional.
+Currently on the way to become a information security professional.
 
 ### Latest blog posts...
 1. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
