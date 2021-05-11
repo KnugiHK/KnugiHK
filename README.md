@@ -3,6 +3,7 @@ Currently on the way to become a information security professional.
 
 ### Latest blog posts...
 1. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
+2. Decrypting Signal Conversation Database (Preparing)
 
 ### ⚡Languages (from using actively to languages that I have experienced before)
 * Python (Active)
