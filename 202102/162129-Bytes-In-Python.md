@@ -32,4 +32,4 @@ So, when we need to convert a network related program from Python 2 to Python 3,
 # Metadata
 *This post was originally posted in 2020 May 26*
 
-*[Bytes In Python 2 & 3 Comment Section](https://github.com/KnugiHK/KnugiHK/issues/1)*
+*[Bytes In Python 2 & 3 Comment Section](https://github.com/KnugiHK/KnugiHK/discussions/3)*
