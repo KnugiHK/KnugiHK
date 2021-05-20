@@ -15,8 +15,8 @@ Currently on the way to become a information security professional.
 * C++
 
 ### Recently working on...
-* [matrix-synapse-admin-api](https://github.com/KnugiHK/synapse-admin-api-python)
-* [OurTube](https://github.com/KnugiHK/OurTube)
+* [matrix-synapse-admin](https://github.com/KnugiHK/synapse-admin-api-python)
+* [Whatsapp-Chat-Exporter](https://github.com/KnugiHK/Whatsapp-Chat-Exporter)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
