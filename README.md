@@ -11,9 +11,6 @@ Currently on the way to become a information security professional.
 * JavaScript
 * Lua (Ahh, actually, hate this)
 
-### Currently learning...
-* C++
-
 ### Recently working on...
 * [matrix-synapse-admin](https://github.com/KnugiHK/synapse-admin-api-python)
 * [Whatsapp-Chat-Exporter](https://github.com/KnugiHK/Whatsapp-Chat-Exporter)
