@@ -11,7 +11,7 @@ Next, use the ADB to uninstall the Signal without deleting the user database, by
 ```sh
 $ adb shell pm uninstall -k org.thoughtcrime.securesms
 Success
-$ adb install -r org.thoughtcrime.securesms-2.28.1-156-minAPI9.apk
+$ adb install -r -d org.thoughtcrime.securesms-2.28.1-156-minAPI9.apk
 success
 ```
 And now, your Android phone should have an app called "TextSecure". At this moment, you can perform the ADB backup and get a file with .ab as the extension.
