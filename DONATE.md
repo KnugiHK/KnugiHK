@@ -32,7 +32,7 @@ Together, we make the open source community STRONGER!
 
 --------------------------------
 ### Bitcoin Address QR Code
-![Bitcoin Address QR Code](https://knugi.com/images/btc_address.png "Bitcoin Address QR Code")
+![Bitcoin Address QR Code](https://knugi.com/images/btc_address.webp "Bitcoin Address QR Code")
 
 ### Monero Address QR Code
-![Monero Address QR Code](https://knugi.com/images/xmr_address.png "Monero Address QR Code")
+![Monero Address QR Code](https://knugi.com/images/xmr_address.webp "Monero Address QR Code")
