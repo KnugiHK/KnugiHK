@@ -2,7 +2,10 @@
 
 Welcome to the donation guide! If you're interested in supporting me, here are a few simple guidelines to follow.
 
-**Please make sure to read them before making a donation.**
+### Too Long; Didn't Read
+
+Donations are accepted only in cryptocurrency (Bitcoin and Monero) and go directly to KnugiHK personally, supporting my independent work. If you'd like to support a specific project (e.g., WhatsApp-Chat-Exporter), the best way is to promote and contribute (e.g., sharing on social media or contributing to GitHub) rather than donating directly. For those who still wish to donate to a specific project, contributions will be used at my discretion with no guarantees.  
+**Although this TLDR summarizes the details below, please be sure to read everything before making a donation**.
 
 ## Cryptocurrency-Only Donations
 Donations are accepted only in the form of cryptocurrencies. Please note that fiat currency or any other forms of donation are not accepted at this time.
