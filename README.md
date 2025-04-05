@@ -16,4 +16,4 @@
 See the [Donation Guide](https://github.com/KnugiHK/KnugiHK/blob/master/DONATE.md).
 
 ### PGP
-You can find my PGP key in https://keyserver.pgp.com.
+You can find my PGP key in https://keyserver.pgp.com or https://keys.openpgp.org.
