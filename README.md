@@ -2,7 +2,7 @@
 1. [Decrypting Signal Conversation Database](202107/151300-Decrypting-Signal-Conversation-Database.md)
 2. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
 
-### ⚡Languages
+### Languages
 * (Mainly) Python
 * JavaScript
 * C#
