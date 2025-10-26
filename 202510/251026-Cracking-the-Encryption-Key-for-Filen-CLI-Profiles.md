@@ -150,6 +150,7 @@ I reported this issue to Filen back in December, and they acknowledged it. Their
 - 30 Dec 2024 - Issue reported to vendor
 - 30 Dec 2024 - Issue acknowledged by vendor (several minutes later, speed of light!)
 - 22 Mar 2025 - Proper fix released in v0.0.31
+
 # 🎓 Security 101
 Any secret embedded in client-side code, binaries, frontends, mobile apps, or browser extensions is **not** a secret. Obfuscation is not encryption, and even encryption is just a speed bump if the key is nearby. Even Digital Rights Management (DRM) can be bypassed — so never trust client-side binaries to securely "hide" secrets.
 
