@@ -159,3 +159,6 @@ Any secret embedded in client-side code, binaries, frontends, mobile apps, or br
 **If it runs on the client, it's already compromised.**
 
 Stay safe out there!
+
+# Metadata
+*[Cracking the Encryption Key for Filen CLI Profiles Comment Section](https://github.com/KnugiHK/KnugiHK/discussions/6)*
