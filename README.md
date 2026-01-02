@@ -5,8 +5,9 @@
 
 ### Recently Working On...
 * [Whatsapp-Chat-Exporter](https://github.com/KnugiHK/Whatsapp-Chat-Exporter)
-* [WhatsApp-Key-DB-Extractor](https://github.com/KnugiHK/WhatsApp-Key-DB-Extractor)
+* [wget-on-windows](https://github.com/KnugiHK/wget-on-windows)
 * [Windows Libraries of libaacs & libbdplus](https://github.com/KnugiHK/libaacs-libbdplus-windows)
+* [WhatsApp-Key-DB-Extractor](https://github.com/KnugiHK/WhatsApp-Key-DB-Extractor)
 * [Windows-Credential-Manager-Viewer](https://github.com/KnugiHK/Windows-Credential-Manager-Viewer)
 
 ### If you want to make a donation...
