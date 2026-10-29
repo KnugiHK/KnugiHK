@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | default: "KnugiHK" }}</a>
+            <nav class="site-nav">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="https://github.com/KnugiHK">GitHub</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ 'now' | date: "%Y" }} KnugiHK. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+title: KnugiHK
+description: Exploring security, cryptography, and reverse engineering
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
