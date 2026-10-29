@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ### Latest Blog Posts
 1. [Cracking the Encryption Key for Filen CLI Profiles](202510/251026-Cracking-the-Encryption-Key-for-Filen-CLI-Profiles.md)
 2. [Decrypting Signal Conversation Database](202107/151300-Decrypting-Signal-Conversation-Database.md)

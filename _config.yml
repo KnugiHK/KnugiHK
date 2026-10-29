@@ -19,3 +19,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: "README.md"
+    values:
+      layout: "home"
