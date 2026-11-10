@@ -1,7 +1,8 @@
 ### Latest Blog Posts
-1. [Cracking the Encryption Key for Filen CLI Profiles](202510/251026-Cracking-the-Encryption-Key-for-Filen-CLI-Profiles.md)
-2. [Decrypting Signal Conversation Database](202107/151300-Decrypting-Signal-Conversation-Database.md)
-3. [Bytes in Python 2 & 3](202102/162129-Bytes-In-Python.md)
+1. [Beyond 1,000 Stars: A 5-Year Journey of Data Sovereignty](https://blog.knugi.com/202611/262012-beyond-1000-stars-a-5-year-journey-of-data-sovereignty/)
+2. [Cracking the Encryption Key for Filen CLI Profiles](https://blog.knugi.com/202510/251026-cracking-the-encryption-key-for-filen-cli-profiles/)
+3. [Decrypting Signal Conversation Database](https://blog.knugi.com/202107/151300-decrypting-signal-conversation-database/)
+4. [Bytes in Python 2 & 3](https://blog.knugi.com/202102/162129-bytes-in-python/)
 
 ### Recently Working On
 * [Whatsapp-Chat-Exporter](https://github.com/KnugiHK/Whatsapp-Chat-Exporter)
@@ -11,7 +12,7 @@
 * [pdb-browser](https://github.com/KnugiHK/pdb-browser)
 
 ### If you want to make a donation
-See the [Donation Guide](DONATE.md).
+See the [Donation Guide](https://blog.knugi.com/DONATE/).
 
 ### PGP
 You can find my PGP key in [keyserver.pgp.com](https://keyserver.pgp.com) or [keys.openpgp.org](https://keys.openpgp.org).
