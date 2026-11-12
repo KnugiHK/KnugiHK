@@ -1,5 +1,5 @@
 ### Latest Blog Posts
-1. [Beyond 1,000 Stars: A 5-Year Journey of Data Sovereignty](https://blog.knugi.com/202611/262012-beyond-1000-stars-a-5-year-journey-of-data-sovereignty/)
+1. [Beyond 1,000 Stars: A 5-Year Journey of Data Sovereignty](https://blog.knugi.com/202611/112012-beyond-1000-stars-a-5-year-journey-of-data-sovereignty/)
 2. [Cracking the Encryption Key for Filen CLI Profiles](https://blog.knugi.com/202510/251026-cracking-the-encryption-key-for-filen-cli-profiles/)
 3. [Decrypting Signal Conversation Database](https://blog.knugi.com/202107/151300-decrypting-signal-conversation-database/)
 4. [Bytes in Python 2 & 3](https://blog.knugi.com/202102/162129-bytes-in-python/)
